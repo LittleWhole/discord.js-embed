@@ -1,0 +1,24 @@
+{
+  "name": "discord.js-embed",
+  "version": "1.0.1",
+  "description": "An easy way to make embeds in discord.js.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/LittleWhole/discord.js-embed"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord.js",
+    "embed",
+    "easy"
+  ]
+}
