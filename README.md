@@ -21,3 +21,10 @@ client.on('message', async message => {
   message.channel.send({embed: myEmbed});
 });
 ```
+
+If you want to add fields to your embed, you can use the `discord.js` function `addField()`:
+```JavaScript
+client.on('message', async message => {
+  let myEmbed = embed.embed("This is an embed!", "This is the description of the embed", "This is the footer of the embed", "#ffffff", true).addField("This is the field name", "This is the field text", true);
+  message.channel.send({embed: myEmbed});
+});```
