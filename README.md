@@ -2,11 +2,8 @@
 `discord.js-embed` is a very simple package designed to help make `discord.js` embeds easier.
 # Installation
 To install `discord.js-embed`, type into the console `npm install discord.js-embed`. If your `package.json` does not update, you can manually edit your `package.json`.
-<<<<<<< HEAD
 
 **IMPORTANT!** Version 2.0.0 supports `discord.js` 12.x ONLY. For `discord.js` version 11.3.2 and earlier, please use `discord.js-embed` v1.0.3.
-=======
->>>>>>> 541405bc2385454a614d9120d4b8142aade900c6
 # Documentation
 `embed(title, description, footer, color, timestamp);`
 
