@@ -1,13 +1,21 @@
 {
   "name": "discord.js-embed",
+<<<<<<< HEAD
+  "version": "2.0.0",
+=======
   "version": "1.0.3",
+>>>>>>> 541405bc2385454a614d9120d4b8142aade900c6
   "description": "An easy way to make embeds in discord.js.",
   "main": "server.js",
   "scripts": {
     "test": "echo no test"
   },
   "dependencies": {
+<<<<<<< HEAD
+    "discord.js": "github:hydrabolt/discord.js#master"
+=======
     "discord.js": "^11.3.2"
+>>>>>>> 541405bc2385454a614d9120d4b8142aade900c6
   },
   "engines": {
     "node": "8.x"
